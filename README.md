@@ -12,5 +12,6 @@ Features:
 - Split/seperate pdf to 1 or more pdf
 - Merge Pdf files
 - offline - no ads
-- Potable (no intallation needed)
+- Portable (no intallation needed)
+  
 ![image](https://github.com/OmarTools/PDF-Manipulator-by-OmarTools/assets/165505995/d6520036-c8c3-447b-afa6-c8a9ca04225a)
